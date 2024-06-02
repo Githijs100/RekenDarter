@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(green, black);
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    margin: 15px;
+    color: white;
+}
+
+#correcteScore { 
+    color: #0ca342;
+}
+
+#teLageScore { 
+    color: #e22929;
+}
+
+#teHogeScore { 
+    color: #e22929;
+}
+
+h1 {
+    font-family: calibri;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+svg {
+    height: 550px;
+}
+
+.cls-1 {
+    fill: #fff;
+    font-family: MyriadPro-Regular, 'Myriad Pro';
+    font-size: 36px;
+    opacity: .9;
+}
+
+.cls-2 {
+    fill: #ecede2;
+}
+
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5 {
+    stroke-width: 0px;
+}
+
+.cls-3 {
+    fill: #e22929;
+}
+
+.cls-4 {
+    fill: #0ca342;
+}
+
+.cls-5 {
+    fill: #5b4f3f;
+}
+
+.gegooid {
+    fill: yellow;
+}
